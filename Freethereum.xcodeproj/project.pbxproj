@@ -7,25 +7,43 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6424045D27C6B00B0053B5E3 /* TapArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6424045C27C6B00B0053B5E3 /* TapArea.swift */; };
+		642A9E9727D6898F00DE4098 /* GameOverScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 642A9E9627D6898F00DE4098 /* GameOverScene.swift */; };
+		642A9E9B27D68A1F00DE4098 /* GameOverScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 642A9E9A27D68A1F00DE4098 /* GameOverScene.sks */; };
+		6456886127DFB11A00888395 /* Magic.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6456886027DFB11A00888395 /* Magic.sks */; };
+		6456886327DFB54F00888395 /* wromg.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 6456886227DFB54F00888395 /* wromg.aiff */; };
+		647468A727D92AEC005F2444 /* monsters.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 647468A627D92AEC005F2444 /* monsters.mp3 */; };
+		647468A927D931C3005F2444 /* CityLights.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 647468A827D931C3005F2444 /* CityLights.mp3 */; };
 		6486F2C227C56475009C2FF0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6486F2C127C56475009C2FF0 /* AppDelegate.swift */; };
 		6486F2C427C56475009C2FF0 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6486F2C327C56475009C2FF0 /* GameScene.sks */; };
-		6486F2C627C56475009C2FF0 /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = 6486F2C527C56475009C2FF0 /* Actions.sks */; };
 		6486F2C827C56475009C2FF0 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6486F2C727C56475009C2FF0 /* GameScene.swift */; };
 		6486F2CA27C56475009C2FF0 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6486F2C927C56475009C2FF0 /* GameViewController.swift */; };
 		6486F2CD27C56475009C2FF0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6486F2CB27C56475009C2FF0 /* Main.storyboard */; };
 		6486F2CF27C56476009C2FF0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6486F2CE27C56476009C2FF0 /* Assets.xcassets */; };
+		64A5084B27D13CE100FC4407 /* Bokeh.sks in Resources */ = {isa = PBXBuildFile; fileRef = 64A5084A27D13CE100FC4407 /* Bokeh.sks */; };
+		64A5084F27D1415000FC4407 /* splash.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 64A5084D27D1415000FC4407 /* splash.aiff */; };
+		64F2BA7827DF7C05006E9570 /* robot-click.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 64F2BA7727DF7C05006E9570 /* robot-click.aiff */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6424045C27C6B00B0053B5E3 /* TapArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapArea.swift; sourceTree = "<group>"; };
+		642A9E9627D6898F00DE4098 /* GameOverScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameOverScene.swift; sourceTree = "<group>"; };
+		642A9E9A27D68A1F00DE4098 /* GameOverScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameOverScene.sks; sourceTree = "<group>"; };
+		6456886027DFB11A00888395 /* Magic.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Magic.sks; sourceTree = "<group>"; };
+		6456886227DFB54F00888395 /* wromg.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = wromg.aiff; sourceTree = "<group>"; };
+		647468A627D92AEC005F2444 /* monsters.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = monsters.mp3; sourceTree = "<group>"; };
+		647468A827D931C3005F2444 /* CityLights.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = CityLights.mp3; sourceTree = "<group>"; };
 		6486F2BE27C56475009C2FF0 /* Freethereum.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Freethereum.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6486F2C127C56475009C2FF0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6486F2C327C56475009C2FF0 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
-		6486F2C527C56475009C2FF0 /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
 		6486F2C727C56475009C2FF0 /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
 		6486F2C927C56475009C2FF0 /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
 		6486F2CC27C56475009C2FF0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		6486F2CE27C56476009C2FF0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6486F2D027C56476009C2FF0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		64A5084A27D13CE100FC4407 /* Bokeh.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Bokeh.sks; sourceTree = "<group>"; };
+		64A5084D27D1415000FC4407 /* splash.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = splash.aiff; sourceTree = "<group>"; };
+		64F2BA7727DF7C05006E9570 /* robot-click.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = "robot-click.aiff"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,12 +78,21 @@
 			children = (
 				6486F2C127C56475009C2FF0 /* AppDelegate.swift */,
 				6486F2C327C56475009C2FF0 /* GameScene.sks */,
-				6486F2C527C56475009C2FF0 /* Actions.sks */,
 				6486F2C727C56475009C2FF0 /* GameScene.swift */,
 				6486F2C927C56475009C2FF0 /* GameViewController.swift */,
 				6486F2CB27C56475009C2FF0 /* Main.storyboard */,
 				6486F2CE27C56476009C2FF0 /* Assets.xcassets */,
 				6486F2D027C56476009C2FF0 /* Info.plist */,
+				6424045C27C6B00B0053B5E3 /* TapArea.swift */,
+				64A5084A27D13CE100FC4407 /* Bokeh.sks */,
+				6456886027DFB11A00888395 /* Magic.sks */,
+				64A5084D27D1415000FC4407 /* splash.aiff */,
+				64F2BA7727DF7C05006E9570 /* robot-click.aiff */,
+				6456886227DFB54F00888395 /* wromg.aiff */,
+				647468A827D931C3005F2444 /* CityLights.mp3 */,
+				647468A627D92AEC005F2444 /* monsters.mp3 */,
+				642A9E9627D6898F00DE4098 /* GameOverScene.swift */,
+				642A9E9A27D68A1F00DE4098 /* GameOverScene.sks */,
 			);
 			path = Freethereum;
 			sourceTree = "<group>";
@@ -127,10 +154,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				647468A927D931C3005F2444 /* CityLights.mp3 in Resources */,
+				642A9E9B27D68A1F00DE4098 /* GameOverScene.sks in Resources */,
+				64A5084F27D1415000FC4407 /* splash.aiff in Resources */,
+				64F2BA7827DF7C05006E9570 /* robot-click.aiff in Resources */,
 				6486F2CD27C56475009C2FF0 /* Main.storyboard in Resources */,
+				6456886327DFB54F00888395 /* wromg.aiff in Resources */,
+				64A5084B27D13CE100FC4407 /* Bokeh.sks in Resources */,
+				647468A727D92AEC005F2444 /* monsters.mp3 in Resources */,
+				6456886127DFB11A00888395 /* Magic.sks in Resources */,
 				6486F2C427C56475009C2FF0 /* GameScene.sks in Resources */,
 				6486F2CF27C56476009C2FF0 /* Assets.xcassets in Resources */,
-				6486F2C627C56475009C2FF0 /* Actions.sks in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,8 +175,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				642A9E9727D6898F00DE4098 /* GameOverScene.swift in Sources */,
 				6486F2C827C56475009C2FF0 /* GameScene.swift in Sources */,
 				6486F2CA27C56475009C2FF0 /* GameViewController.swift in Sources */,
+				6424045D27C6B00B0053B5E3 /* TapArea.swift in Sources */,
 				6486F2C227C56475009C2FF0 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
